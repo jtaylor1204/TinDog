@@ -1,5 +1,7 @@
 # TinDog
 
+![tindog](https://user-images.githubusercontent.com/102535399/216231155-de243dca-d4e2-449f-996d-4329596dcd93.gif)
+
 ## Overview
 
 This landing page was created as a personal project in conjunction with Angela Yu's Complete 2022 Web Developer Course.
